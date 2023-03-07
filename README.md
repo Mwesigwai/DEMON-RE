@@ -1,3 +1,3 @@
 # DEMON-RE
 First repository
-lets go
+lets go!
